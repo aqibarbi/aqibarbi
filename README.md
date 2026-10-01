@@ -50,6 +50,8 @@ Some smaller practice builds:
 
 ![Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,wordpress,git,github,netlify)
 
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+
 </div>
 
 On the WordPress side: Elementor and Elementor Pro, ACF, Fluent Forms, WP Rocket, RankMath, and PHP for custom templates and `WP_Query`.

@@ -1,203 +1,69 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Aqib%20Javed&fontSize=46&fontAlignY=36&animation=fadeIn&desc=Frontend%20%26%20WordPress%20Developer&descAlignY=58&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aqib%20Javed&fontSize=44&fontAlignY=38&animation=fadeIn&desc=Frontend%20%26%20WordPress%20Developer&descAlignY=60&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=1B4FBD&center=true&vCenter=true&width=640&lines=Custom+WordPress+websites+that+convert;Fast%2C+responsive%2C+SEO-ready+builds;Clean+code+%7C+Clear+communication;Open+to+freelance+%26+remote+projects)](https://portfolio-muhammad-aqibjaved.netlify.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1B4FBD&center=true&vCenter=true&width=560&lines=Custom+WordPress+sites;Responsive+frontend+builds;Open+to+freelance+and+remote+work)](https://portfolio-muhammad-aqibjaved.netlify.app/)
 
-📍 Bahawalpur, Pakistan &nbsp;•&nbsp; 🌍 Working with clients worldwide &nbsp;•&nbsp; 🟢 Available for new projects
+Bahawalpur, Pakistan
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-1B4FBD?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-muhammad-aqibjaved.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1B4FBD?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-muhammad-aqibjaved.netlify.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=923056494101&text=Hello)
-[![Email](https://img.shields.io/badge/Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maqibjaved.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maqibjaved.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-aqibjaved-webdev)
 
 </div>
 
----
+## About
 
-## 👋 Hi, I'm Aqib
+I'm Aqib, a freelance web developer from Bahawalpur. I've been building websites for about two years, mostly in WordPress and plain HTML, CSS and JavaScript. I also teach web development at Enablers Bahawalpur.
 
-I build **custom WordPress websites** and **responsive frontends** for businesses that want a site that looks professional, loads fast, and is easy to manage.
+I like working on sites where I write the theme myself instead of stacking plugins on a ready-made template. It's slower at the start, but the site ends up faster and easier to change later.
 
-With 2+ years of hands-on experience, I turn a business idea into a finished website: custom design, clean code, and a smooth handover.
+## What I do
 
----
+- Custom WordPress themes (child themes, custom templates, ACF fields, custom post types)
+- Responsive websites in HTML, CSS, JavaScript, Bootstrap and Tailwind
+- Speed fixes: image sizes, caching, PageSpeed issues
+- Contact and quote forms with email notifications that actually arrive
+- Fixing layout bugs and cleaning up existing sites
 
-## 💼 What I Can Build For You
+## Recent work
 
-| Service | What you get |
-|---|---|
-| 🎨 **Custom WordPress Websites** | Built from scratch: custom child theme, no bloated page-builder templates |
-| 🧩 **Product Catalogs & Dynamic Content** | ACF + custom post types, category filters, easy-to-edit admin |
-| 📱 **Responsive Frontend** | HTML, CSS, JavaScript, Bootstrap, Tailwind. Works on every device |
-| ⚡ **Speed & Performance** | PageSpeed fixes, image optimization, caching setup |
-| 📝 **Forms & Email Setup** | Contact and quote forms with branded email notifications |
-| 🔧 **Fixes & Improvements** | Layout bugs, slow pages, redesigns of existing sites |
+**Perth Dynamic Solutions** is a modular home company in Australia. I built their WordPress site from scratch: a custom child theme, a product catalog with category filters, and a finish selector (cladding, flooring, cabinetry) on each product page. They also have a quote request flow with branded emails.
 
----
+[Live site](https://perthdynamicsolutions.com.au) · [Code](https://github.com/aqibarbi/Perth-Dynamics-Solutions)
 
-## ⭐ Client Feedback
+> "Professional, fast, efficient, value for money. Highly recommended. Extremely satisfied." — Hassan, Perth Dynamic Solutions
 
-> *"Professional, fast, efficient, value for money. Highly recommended. Extremely satisfied."*
-> **Hassan, Perth Dynamic Solutions (Australia)**
+Some smaller practice builds:
 
----
+- [Real Home Ultra](https://real-home-ultra-bootstrap.netlify.app/): real estate site, Bootstrap and Swiper
+- [CV Maker](https://cv-generator-js.netlify.app): resume builder in vanilla JavaScript
+- [Houzez](https://houzez-bootstrap.netlify.app): property listings layout
+- [My portfolio](https://portfolio-muhammad-aqibjaved.netlify.app/)
 
-## 🚀 Featured Work
-
-### 🏠 Perth Dynamic Solutions (Real Client Project)
-Custom WordPress site for an Australian modular/prefab home company.
-
-- Custom child theme built from scratch
-- ACF-powered product catalog with category filters
-- Custom finish-selection configurator (cladding, flooring, cabinetry) per product
-- Quote request flow and branded email notifications
-
-[🌐 Live Site](https://perthdynamicsolutions.com.au) &nbsp;•&nbsp; [💻 Code](https://github.com/aqibarbi/Perth-Dynamics-Solutions)
-
-### 🧪 More Builds
-
-| Project | Stack | Link |
-|---|---|---|
-| Real Home Ultra, real estate site | HTML, CSS, Bootstrap, Swiper.js | [Live](https://real-home-ultra-bootstrap.netlify.app/) |
-| CV Maker, interactive resume builder | HTML, CSS, JavaScript | [Live](https://cv-generator-js.netlify.app) |
-| Houzez, property listings UI | HTML, CSS, Bootstrap, Swiper.js | [Live](https://houzez-bootstrap.netlify.app) |
-| Portfolio website | HTML, CSS, JavaScript, Netlify Forms | [Live](https://portfolio-muhammad-aqibjaved.netlify.app/) |
-
----
-
-## 🛠 Tech Stack
+## Tools
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,wordpress,php,git,github,netlify)
-
-**WordPress:** Elementor • ACF • Custom Post Types • Fluent Forms • WP Rocket • RankMath
+![Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,wordpress,git,github,netlify)
 
 </div>
 
----
+On the WordPress side: ACF, Elementor, Fluent Forms, WP Rocket, RankMath, and PHP for custom templates and `WP_Query`.
 
-## 🤝 How We'll Work Together
+## Working with me
 
-1. **Discuss** your goals, pages, and deadline
-2. **Plan** a clear scope and timeline
-3. **Build** with regular progress updates
-4. **Review** and revisions until you're happy
-5. **Launch** and handover, with support after delivery
+Tell me what you need and when you need it. I'll reply with what I can do, how long it should take, and the price. I send updates while I build, and I fix revisions until you're happy with it.
 
----
+## Contact
 
-## 📩 Let's Talk About Your Project
+WhatsApp or email works best. I usually reply the same day.
 
-Have a website idea or an existing site that needs work? Send me a message.
+maqibjaved.dev@gmail.com
 
 <div align="center">
 
-[![WhatsApp](https://img.shields.io/badge/Message_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=923056494101&text=Hello)
-[![Email](https://img.shields.io/badge/maqibjaved.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maqibjaved.dev@gmail.com)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
-
-</div><div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Aqib%20Javed&fontSize=46&fontAlignY=36&animation=fadeIn&desc=Frontend%20%26%20WordPress%20Developer&descAlignY=58&descSize=20)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=1B4FBD&center=true&vCenter=true&width=640&lines=Custom+WordPress+websites+that+convert;Fast%2C+responsive%2C+SEO-ready+builds;Clean+code+%7C+Clear+communication;Open+to+freelance+%26+remote+projects)](https://portfolio-muhammad-aqibjaved.netlify.app/)
-
-📍 Bahawalpur, Pakistan &nbsp;•&nbsp; 🌍 Working with clients worldwide &nbsp;•&nbsp; 🟢 Available for new projects
-
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-1B4FBD?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-muhammad-aqibjaved.netlify.app/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=923056494101&text=Hello)
-[![Email](https://img.shields.io/badge/Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maqibjaved.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-aqibjaved-webdev)
-
-</div>
-
----
-
-## 👋 Hi, I'm Aqib
-
-I build **custom WordPress websites** and **responsive frontends** for businesses that want a site that looks professional, loads fast, and is easy to manage.
-
-With 2+ years of hands-on experience, I turn a business idea into a finished website: custom design, clean code, and a smooth handover.
-
----
-
-## 💼 What I Can Build For You
-
-| Service | What you get |
-|---|---|
-| 🎨 **Custom WordPress Websites** | Built from scratch: custom child theme, no bloated page-builder templates |
-| 🧩 **Product Catalogs & Dynamic Content** | ACF + custom post types, category filters, easy-to-edit admin |
-| 📱 **Responsive Frontend** | HTML, CSS, JavaScript, Bootstrap, Tailwind. Works on every device |
-| ⚡ **Speed & Performance** | PageSpeed fixes, image optimization, caching setup |
-| 📝 **Forms & Email Setup** | Contact and quote forms with branded email notifications |
-| 🔧 **Fixes & Improvements** | Layout bugs, slow pages, redesigns of existing sites |
-
----
-
-## ⭐ Client Feedback
-
-> *"Professional, fast, efficient, value for money. Highly recommended. Extremely satisfied."*
-> **Hassan, Perth Dynamic Solutions (Australia)**
-
----
-
-## 🚀 Featured Work
-
-### 🏠 Perth Dynamic Solutions (Real Client Project)
-Custom WordPress site for an Australian modular/prefab home company.
-
-- Custom child theme built from scratch
-- ACF-powered product catalog with category filters
-- Custom finish-selection configurator (cladding, flooring, cabinetry) per product
-- Quote request flow and branded email notifications
-
-[🌐 Live Site](https://perthdynamicsolutions.com.au) &nbsp;•&nbsp; [💻 Code](https://github.com/aqibarbi/Perth-Dynamics-Solutions)
-
-### 🧪 More Builds
-
-| Project | Stack | Link |
-|---|---|---|
-| Real Home Ultra, real estate site | HTML, CSS, Bootstrap, Swiper.js | [Live](https://real-home-ultra-bootstrap.netlify.app/) |
-| CV Maker, interactive resume builder | HTML, CSS, JavaScript | [Live](https://cv-generator-js.netlify.app) |
-| Houzez, property listings UI | HTML, CSS, Bootstrap, Swiper.js | [Live](https://houzez-bootstrap.netlify.app) |
-| Portfolio website | HTML, CSS, JavaScript, Netlify Forms | [Live](https://portfolio-muhammad-aqibjaved.netlify.app/) |
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-![Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,wordpress,php,git,github,netlify)
-
-**WordPress:** Elementor • ACF • Custom Post Types • Fluent Forms • WP Rocket • RankMath
-
-</div>
-
----
-
-## 🤝 How We'll Work Together
-
-1. **Discuss** your goals, pages, and deadline
-2. **Plan** a clear scope and timeline
-3. **Build** with regular progress updates
-4. **Review** and revisions until you're happy
-5. **Launch** and handover, with support after delivery
-
----
-
-## 📩 Let's Talk About Your Project
-
-Have a website idea or an existing site that needs work? Send me a message.
-
-<div align="center">
-
-[![WhatsApp](https://img.shields.io/badge/Message_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=923056494101&text=Hello)
-[![Email](https://img.shields.io/badge/maqibjaved.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maqibjaved.dev@gmail.com)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer)
 
 </div>

@@ -1,6 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aqib%20Javed&fontSize=44&fontAlignY=38&animation=fadeIn&desc=Frontend%20%26%20WordPress%20Developer&descAlignY=60&descSize=18)
+# Aqib Javed
+### Frontend & WordPress Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1B4FBD&center=true&vCenter=true&width=560&lines=Custom+WordPress+sites;Responsive+frontend+builds;Open+to+freelance+and+remote+work)](https://portfolio-muhammad-aqibjaved.netlify.app/)
 
@@ -61,9 +62,3 @@ Tell me what you need and when you need it. I'll reply with what I can do, how l
 WhatsApp or email works best. I usually reply the same day.
 
 maqibjaved.dev@gmail.com
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer)
-
-</div>

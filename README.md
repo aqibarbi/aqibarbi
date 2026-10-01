@@ -54,7 +54,7 @@ On the WordPress side: ACF, Elementor, Fluent Forms, WP Rocket, RankMath, and PH
 
 ## Working with me
 
-Tell me what you need and when you need it. I'll reply with what I can do, how long it should take, and the price. I send updates while I build, and I fix revisions until you're happy with it.
+Tell me what you need and when you need it. I'll reply with what I can do, how long it should take, and the price. I send updates while I build, and I fix revisions on the agreed work until you're happy with it. New pages or extra features get quoted separately.
 
 ## Contact
 

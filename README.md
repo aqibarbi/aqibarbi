@@ -23,6 +23,7 @@ I like working on sites where I write the theme myself instead of stacking plugi
 ## What I do
 
 - Custom WordPress themes (child themes, custom templates, ACF fields, custom post types)
+- Elementor and Elementor Pro websites (page layouts, theme builder, custom sections)
 - Responsive websites in HTML, CSS, JavaScript, Bootstrap and Tailwind
 - Speed fixes: image sizes, caching, PageSpeed issues
 - Contact and quote forms with email notifications that actually arrive
@@ -51,7 +52,7 @@ Some smaller practice builds:
 
 </div>
 
-On the WordPress side: ACF, Elementor, Fluent Forms, WP Rocket, RankMath, and PHP for custom templates and `WP_Query`.
+On the WordPress side: Elementor and Elementor Pro, ACF, Fluent Forms, WP Rocket, RankMath, and PHP for custom templates and `WP_Query`.
 
 ## Working with me
 

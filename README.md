@@ -48,11 +48,11 @@ Some smaller practice builds:
 
 <div align="center">
 
-<img src="./stack.svg?v=1" alt="Tech stack: HTML, CSS, JavaScript, Bootstrap, Tailwind, WordPress, Elementor Pro, ACF, Fluent Forms, WP Rocket, RankMath, Git, GitHub, Netlify." width="100%"/>
+<img src="./stack.svg?v=1" alt="Tech stack: HTML, CSS, JavaScript, Bootstrap, Tailwind, WordPress, Elementor Pro, ACF, Fluent Forms, WP Rocket, Git, GitHub, Netlify." width="100%"/>
 
 </div>
 
-On the WordPress side: Elementor and Elementor Pro, ACF, Fluent Forms, WP Rocket and RankMath.
+On the WordPress side: Elementor and Elementor Pro, ACF, Fluent Forms and WP Rocket.
 
 ## Working with me
 

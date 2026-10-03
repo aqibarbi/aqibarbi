@@ -32,6 +32,9 @@ I build pages in custom code on a child theme and add plugins only where they he
 
 [Live site](https://perthdynamicsolutions.com.au) · [Code](https://github.com/aqibarbi/Perth-Dynamics-Solutions)
 
+<a href="https://perthdynamicsolutions.com.au"><img src="https://raw.githubusercontent.com/aqibarbi/Perth-Dynamics-Solutions/main/assets/img/screenshot-home.png" alt="Perth Dynamic Solutions homepage" width="49%"/></a>
+<a href="https://perthdynamicsolutions.com.au"><img src="https://raw.githubusercontent.com/aqibarbi/Perth-Dynamics-Solutions/main/assets/img/screenshot-product.png" alt="Perth Dynamic Solutions product page" width="49%"/></a>
+
 > "Professional, fast, efficient, value for money. Highly recommended. Extremely satisfied." — Hassan, Perth Dynamic Solutions
 
 Some smaller practice builds:

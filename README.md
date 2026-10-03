@@ -1,11 +1,8 @@
 <div align="center">
 
-# Aqib Javed
-### Frontend & WordPress Developer
+<img src="./hero.svg?v=1" alt="Aqib Javed, Frontend and WordPress Developer from Bahawalpur, Pakistan. Custom WordPress sites, responsive frontend builds, open to freelance and remote work." width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1B4FBD&center=true&vCenter=true&width=560&lines=Custom+WordPress+sites;Responsive+frontend+builds;Open+to+freelance+and+remote+work)](https://portfolio-muhammad-aqibjaved.netlify.app/)
-
-Bahawalpur, Pakistan
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1B4FBD?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-muhammad-aqibjaved.netlify.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=923056494101&text=Hello)
@@ -18,11 +15,11 @@ Bahawalpur, Pakistan
 
 I'm Aqib, a freelance web developer from Bahawalpur. I've been building websites for about two years, mostly in WordPress and plain HTML, CSS and JavaScript. I also teach web development at Enablers Bahawalpur.
 
-I like working on sites where I write the theme myself instead of stacking plugins on a ready-made template. It's slower at the start, but the site ends up faster and easier to change later.
+I build pages in custom code on a child theme and add plugins only where they help, like Fluent Forms for forms. It's slower at the start than using a ready-made template, but the site ends up faster and easier to change later.
 
 ## What I do
 
-- Custom WordPress themes (child themes, custom templates, ACF fields, custom post types)
+- Custom-coded WordPress pages (child themes, ACF fields)
 - Elementor and Elementor Pro websites (page layouts, theme builder, custom sections)
 - Responsive websites in HTML, CSS, JavaScript, Bootstrap and Tailwind
 - Speed fixes: image sizes, caching, PageSpeed issues
@@ -48,19 +45,23 @@ Some smaller practice builds:
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,wordpress,git,github,netlify)
-
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+<img src="./stack.svg?v=1" alt="Tech stack: HTML, CSS, JavaScript, Bootstrap, Tailwind, WordPress, Elementor Pro, ACF, Fluent Forms, WP Rocket, RankMath, Git, GitHub, Netlify." width="100%"/>
 
 </div>
 
-On the WordPress side: Elementor and Elementor Pro, ACF, Fluent Forms, WP Rocket, RankMath, and PHP for custom templates and `WP_Query`.
+On the WordPress side: Elementor and Elementor Pro, ACF, Fluent Forms, WP Rocket and RankMath.
 
 ## Working with me
 
 Tell me what you need and when you need it. I'll reply with what I can do, how long it should take, and the price. I send updates while I build, and I fix revisions on the agreed work until you're happy with it. New pages or extra features get quoted separately.
 
 ## Contact
+
+<div align="center">
+
+<img src="./connect.svg?v=1" alt="Contact: portfolio, WhatsApp, email and LinkedIn." width="100%"/>
+
+</div>
 
 WhatsApp or email works best. I usually reply the same day.
 

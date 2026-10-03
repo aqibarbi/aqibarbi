@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-labelledby="t d">
+<title id="t">Aqib Javed, Frontend &amp; WordPress Developer</title>
+<desc id="d">Animated banner: Aqib Javed, freelance web developer and web development trainer from Bahawalpur, Pakistan.</desc>
+<style>
+.sans{font-family:Inter,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.fade{animation:fadeUp .8s cubic-bezier(.2,.7,.2,1) both}
+@keyframes fadeUp{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.fade{animation:none}}
+.k{fill:#60a5fa}.v{fill:#e6ecff}.s{fill:#7ee0c3}.c{fill:#5b6a91}.f{fill:#93c5fd}.p{fill:#8a96b8}.n{fill:#fbbf77}</style>
+<defs>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#ffffff" fill-opacity=".05"/></pattern>
+<linearGradient id="hair" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3b82f6"/><stop offset=".5" stop-color="#1B4FBD" stop-opacity=".25"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<linearGradient id="grad" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect"><stop offset="0" stop-color="#bfdbfe"/><stop offset=".4" stop-color="#60a5fa"/><stop offset=".8" stop-color="#3b82f6"/><stop offset="1" stop-color="#22d3ee"/><animateTransform attributeName="gradientTransform" type="translate" values="0 0;0.6 0;0 0" dur="7s" repeatCount="indefinite"/></linearGradient>
+<radialGradient id="glowB"><stop offset="0" stop-color="#1B4FBD" stop-opacity=".45"/><stop offset="1" stop-color="#1B4FBD" stop-opacity="0"/></radialGradient>
+<clipPath id="nameClip"><rect x="40" y="128" width="620" height="100"/></clipPath>
+<clipPath id="typeClip"><rect x="60" y="102" width="170" height="34"><animate attributeName="width" values="0;0;170" keyTimes="0;.25;1" dur="1.4s" fill="freeze"/></rect></clipPath>
+</defs>
+
+<rect x=".75" y=".75" width="1198.5" height="418.5" rx="22" fill="#0b1020"/>
+<rect x=".75" y=".75" width="1198.5" height="418.5" rx="22" fill="url(#dots)"/>
+<ellipse cx="930" cy="222" rx="300" ry="220" fill="url(#glowB)"/>
+
+<g class="fade" style="animation-delay:.05s">
+  <rect x="64" y="46" width="286" height="32" rx="16" fill="#1B4FBD" fill-opacity=".2" stroke="#3b82f6" stroke-opacity=".55"/>
+  <circle cx="84" cy="62" r="5" fill="none" stroke="#22d3ee" opacity="0"><animate attributeName="r" values="5;13" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="84" cy="62" r="4.5" fill="#22d3ee"/>
+  <text x="100" y="67" class="sans" font-size="13.5" font-weight="500" fill="#c3d5f7">Open to freelance &amp; remote work</text>
+</g>
+
+<g clip-path="url(#typeClip)"><text x="64" y="124" class="mono" font-size="20" fill="#7f93c2">Hi there, I'm</text></g>
+<rect x="226" y="106" width="10" height="22" fill="#60a5fa"><animate attributeName="x" values="64;64;226" keyTimes="0;.25;1" dur="1.4s" fill="freeze"/><animate attributeName="opacity" values="1;0;1" keyTimes="0;.5;1" calcMode="discrete" dur="1s" repeatCount="indefinite"/></rect>
+
+<g clip-path="url(#nameClip)"><text x="62" y="200" class="sans" font-size="84" font-weight="800" letter-spacing="-2" fill="url(#grad)">Aqib Javed<animateTransform attributeName="transform" type="translate" values="0 90;0 90;0 0" keyTimes="0;.35;1" calcMode="spline" keySplines="0 0 1 1;.2 .8 .2 1" dur="1.6s" fill="freeze"/></text></g>
+
+<g class="fade" style="animation-delay:.9s">
+  <text x="64" y="252" class="sans" font-size="30" font-weight="700" fill="#3b82f6">›</text>
+  <text x="92" y="252" class="sans" font-size="30" font-weight="600" fill="#d6e4ff" opacity="1">Frontend Developer<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.30;.34;.96;1" dur="9s" repeatCount="indefinite"/></text>
+  <text x="92" y="252" class="sans" font-size="30" font-weight="600" fill="#d6e4ff" opacity="0">WordPress Developer<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.30;.34;.63;.67;1" dur="9s" repeatCount="indefinite"/></text>
+  <text x="92" y="252" class="sans" font-size="30" font-weight="600" fill="#d6e4ff" opacity="0">Web Development Trainer<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.63;.67;.96;1" dur="9s" repeatCount="indefinite"/></text>
+  <text x="64" y="292" class="sans" font-size="17" fill="#9fb0d6">WordPress sites and responsive frontend builds,</text>
+  <text x="64" y="316" class="sans" font-size="17" fill="#9fb0d6">fast to load and easy to change later.</text>
+</g>
+
+<g class="fade" style="animation-delay:1.2s">
+  <g transform="translate(64 348)" fill="none" stroke="#60a5fa" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M8 15s5.5-4.5 5.5-8.5a5.5 5.5 0 0 0-11 0C2.5 10.5 8 15 8 15z"/><circle cx="8" cy="6.5" r="1.9"/></g><text x="90" y="361" class="sans" font-size="15" fill="#aebbdc">Bahawalpur, Pakistan</text>
+  <g transform="translate(270 348)" fill="none" stroke="#60a5fa" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="1.5" y="5" width="13" height="9" rx="1.8"/><path d="M5.5 5V3.6A1.1 1.1 0 0 1 6.6 2.5h2.8a1.1 1.1 0 0 1 1.1 1.1V5"/></g><text x="296" y="361" class="sans" font-size="15" fill="#aebbdc">Enablers Bahawalpur</text>
+  <g transform="translate(470 348)" fill="none" stroke="#60a5fa" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="8" r="6.5"/><path d="M8 4.5V8l2.6 1.6"/></g><text x="496" y="361" class="sans" font-size="15" fill="#aebbdc">2 years building sites</text>
+</g>
+
+<g class="fade" style="animation-delay:.4s">
+  <rect x="720" y="64" width="416" height="316" rx="14" fill="#0d1426" stroke="#24335f"/>
+  <path d="M720 104h416" stroke="#24335f"/>
+  <circle cx="744" cy="84" r="5.5" fill="#ff5f57"/><circle cx="764" cy="84" r="5.5" fill="#febc2e"/><circle cx="784" cy="84" r="5.5" fill="#28c840"/>
+  <text x="812" y="89" class="mono" font-size="13" fill="#8a96b8">styles.css</text>
+  <g><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.04;0.06;.92;1" dur="12s" repeatCount="indefinite"/>
+  <text x="748" y="140" class="mono" font-size="12" fill="#3b4a73" text-anchor="end">1</text>
+  <text x="764" y="140" class="mono" font-size="14" xml:space="preserve"><tspan class="c">/* responsive hero */</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.09;0.11;.92;1" dur="12s" repeatCount="indefinite"/>
+  <text x="748" y="163" class="mono" font-size="12" fill="#3b4a73" text-anchor="end">2</text>
+  <text x="764" y="163" class="mono" font-size="14" xml:space="preserve"><tspan class="k">.hero</tspan><tspan class="p"> {</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.14;0.16;.92;1" dur="12s" repeatCount="indefinite"/>
+  <text x="748" y="186" class="mono" font-size="12" fill="#3b4a73" text-anchor="end">3</text>
+  <text x="764" y="186" class="mono" font-size="14" xml:space="preserve"><tspan class="v">  </tspan><tspan class="f">display</tspan><tspan class="p">: </tspan><tspan class="s">grid</tspan><tspan class="p">;</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.19;0.21;.92;1" dur="12s" repeatCount="indefinite"/>
+  <text x="748" y="209" class="mono" font-size="12" fill="#3b4a73" text-anchor="end">4</text>
+  <text x="764" y="209" class="mono" font-size="14" xml:space="preserve"><tspan class="v">  </tspan><tspan class="f">grid-template-columns</tspan><tspan class="p">: </tspan><tspan class="n">1fr 1fr</tspan><tspan class="p">;</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.24;0.26;.92;1" dur="12s" repeatCount="indefinite"/>
+  <text x="748" y="232" class="mono" font-size="12" fill="#3b4a73" text-anchor="end">5</text>
+  <text x="764" y="232" class="mono" font-size="14" xml:space="preserve"><tspan class="v">  </tspan><tspan class="f">gap</tspan><tspan class="p">: </tspan><tspan class="n">32px</tspan><tspan class="p">;</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.29;0.31;.92;1" dur="12s" repeatCount="indefinite"/>
+  <text x="748" y="255" class="mono" font-size="12" fill="#3b4a73" text-anchor="end">6</text>
+  <text x="764" y="255" class="mono" font-size="14" xml:space="preserve"><tspan class="p">}</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.34;0.36;.92;1" dur="12s" repeatCount="indefinite"/>
+  <text x="748" y="278" class="mono" font-size="12" fill="#3b4a73" text-anchor="end">7</text>
+  <text x="764" y="278" class="mono" font-size="14" xml:space="preserve"><tspan class="k">@media</tspan><tspan class="p"> (max-width: </tspan><tspan class="n">768px</tspan><tspan class="p">) {</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.39;0.41;.92;1" dur="12s" repeatCount="indefinite"/>
+  <text x="748" y="301" class="mono" font-size="12" fill="#3b4a73" text-anchor="end">8</text>
+  <text x="764" y="301" class="mono" font-size="14" xml:space="preserve"><tspan class="v">  </tspan><tspan class="k">.hero</tspan><tspan class="p"> {</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.44;0.46;.92;1" dur="12s" repeatCount="indefinite"/>
+  <text x="748" y="324" class="mono" font-size="12" fill="#3b4a73" text-anchor="end">9</text>
+  <text x="764" y="324" class="mono" font-size="14" xml:space="preserve"><tspan class="v">    </tspan><tspan class="f">grid-template-columns</tspan><tspan class="p">: </tspan><tspan class="n">1fr</tspan><tspan class="p">;</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.49;0.51;.92;1" dur="12s" repeatCount="indefinite"/>
+  <text x="748" y="347" class="mono" font-size="12" fill="#3b4a73" text-anchor="end">10</text>
+  <text x="764" y="347" class="mono" font-size="14" xml:space="preserve"><tspan class="v">  </tspan><tspan class="p">}</tspan></text></g>
+<g><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.54;0.56;.92;1" dur="12s" repeatCount="indefinite"/>
+  <text x="748" y="370" class="mono" font-size="12" fill="#3b4a73" text-anchor="end">11</text>
+  <text x="764" y="370" class="mono" font-size="14" xml:space="preserve"><tspan class="p">}</tspan></text><rect x="776.4" y="357" width="8" height="17" fill="#60a5fa"><animate attributeName="opacity" values="1;0;1" keyTimes="0;.5;1" calcMode="discrete" dur="1s" repeatCount="indefinite"/></rect></g>
+</g>
+<rect x=".75" y=".75" width="1198.5" height="418.5" rx="22" fill="none" stroke="url(#hair)" stroke-width="1.5" stroke-opacity=".75"/>
+</svg>

@@ -15,34 +15,45 @@
 
 I'm Aqib, a freelance web developer from Bahawalpur. I've been building websites for about two years, mostly in WordPress and plain HTML, CSS and JavaScript. I also teach web development at Enablers Bahawalpur.
 
-I build pages in custom code on a child theme and add plugins only where they help, like Fluent Forms for forms. It's slower at the start than using a ready-made template, but the site ends up faster and easier to change later.
+I write pages as custom code on a child theme and add plugins only where they help, like Fluent Forms for forms. It takes longer to start than a ready-made template, but the site loads faster and is easier to change later.
 
 ## What I do
 
-- Custom-coded WordPress pages (child themes, ACF fields)
-- Elementor and Elementor Pro websites (page layouts, theme builder, custom sections)
-- Responsive websites in HTML, CSS, JavaScript, Bootstrap and Tailwind
+- Custom-coded WordPress themes and pages (child themes, custom post types, ACF)
+- Elementor and Elementor Pro sites (layouts, theme builder, custom sections)
+- Responsive sites in HTML, CSS, JavaScript, Bootstrap and Tailwind
 - Speed fixes: image sizes, caching, PageSpeed issues
-- Contact and quote forms with email notifications that actually arrive
-- Fixing layout bugs and cleaning up existing sites
+- Contact and quote forms with email notifications that arrive
+- Layout bug fixes and cleanup of existing sites
 
 ## Recent work
 
-**Perth Dynamic Solutions** is a modular home company in Australia. I built their WordPress site from scratch: a custom child theme, a product catalog with category filters, and a finish selector (cladding, flooring, cabinetry) on each product page. They also have a quote request flow with branded emails.
+**Perth Dynamic Solutions** is a modular home company in Perth, Western Australia. I built their WordPress site from scratch:
+
+- Custom child theme on Hello Elementor
+- Product catalog with category filters (custom post type and ACF)
+- Finish selector on each product page (cladding, flooring, cabinetry)
+- Contact and quote forms with branded email notifications
+- Security headers set in `.htaccess`, grade A on securityheaders.com
 
 [Live site](https://perthdynamicsolutions.com.au) · [Code](https://github.com/aqibarbi/Perth-Dynamics-Solutions)
 
-<a href="https://perthdynamicsolutions.com.au"><img src="https://raw.githubusercontent.com/aqibarbi/Perth-Dynamics-Solutions/main/assets/img/screenshot-home.png" alt="Perth Dynamic Solutions homepage" width="49%"/></a>
-<a href="https://perthdynamicsolutions.com.au"><img src="https://raw.githubusercontent.com/aqibarbi/Perth-Dynamics-Solutions/main/assets/img/screenshot-product.png" alt="Perth Dynamic Solutions product page" width="49%"/></a>
+<p align="center">
+  <a href="https://perthdynamicsolutions.com.au"><img src="https://raw.githubusercontent.com/aqibarbi/Perth-Dynamics-Solutions/main/assets/img/screenshot-home.png" alt="Perth Dynamic Solutions homepage" width="49%"/></a>
+  <a href="https://perthdynamicsolutions.com.au"><img src="https://raw.githubusercontent.com/aqibarbi/Perth-Dynamics-Solutions/main/assets/img/screenshot-product.png" alt="Perth Dynamic Solutions product page" width="49%"/></a>
+</p>
 
-> "Professional, fast, efficient, value for money. Highly recommended. Extremely satisfied." — Hassan, Perth Dynamic Solutions
+> "Professional, fast, efficient, value for money. Highly recommended. Extremely satisfied."
+>
+> Hassan, Perth Dynamic Solutions
 
-Some smaller practice builds:
+### Practice builds (not client work)
 
 - [Real Home Ultra](https://real-home-ultra-bootstrap.netlify.app/): real estate site, Bootstrap and Swiper
 - [CV Maker](https://cv-generator-js.netlify.app): resume builder in vanilla JavaScript
 - [Houzez](https://houzez-bootstrap.netlify.app): property listings layout
-- [My portfolio](https://portfolio-muhammad-aqibjaved.netlify.app/)
+
+More in my [portfolio](https://portfolio-muhammad-aqibjaved.netlify.app/) ([code](https://github.com/aqibarbi/portfolio-website)).
 
 ## Tools
 
@@ -52,11 +63,13 @@ Some smaller practice builds:
 
 </div>
 
-On the WordPress side: Elementor and Elementor Pro, ACF, Fluent Forms and WP Rocket.
-
 ## Working with me
 
-Tell me what you need and when you need it. I'll reply with what I can do, how long it should take, and the price. I send updates while I build, and I fix revisions on the agreed work until you're happy with it. New pages or extra features get quoted separately.
+- Tell me what you need and when you need it.
+- I reply with what I can do, how long it should take, and the price.
+- You get updates while I build.
+- I fix revisions on the agreed work until you're happy with it.
+- New pages or extra features are quoted separately.
 
 ## Contact
 
@@ -64,8 +77,8 @@ Tell me what you need and when you need it. I'll reply with what I can do, how l
 
 <img src="./connect.svg?v=1" alt="Contact: portfolio, WhatsApp, email and LinkedIn." width="100%"/>
 
+<br/>
+
+[Portfolio](https://portfolio-muhammad-aqibjaved.netlify.app/) · [WhatsApp](https://api.whatsapp.com/send?phone=923056494101&text=Hello) · [Email](mailto:maqibjaved.dev@gmail.com) · [LinkedIn](https://linkedin.com/in/muhammad-aqibjaved-webdev)
+
 </div>
-
-WhatsApp or email works best. I usually reply the same day.
-
-maqibjaved.dev@gmail.com

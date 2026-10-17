@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <img src="./hero.svg?v=1" alt="Aqib Javed, Frontend and WordPress Developer from Bahawalpur, Pakistan. Custom WordPress sites, responsive frontend builds, open to freelance and remote work." width="100%"/>
 
@@ -82,3 +82,4 @@ More in my [portfolio](https://portfolio-muhammad-aqibjaved.netlify.app/) ([code
 [Portfolio](https://portfolio-muhammad-aqibjaved.netlify.app/) · [WhatsApp](https://api.whatsapp.com/send?phone=923056494101&text=Hello) · [Email](mailto:maqibjaved.dev@gmail.com) · [LinkedIn](https://linkedin.com/in/muhammad-aqibjaved-webdev)
 
 </div>
+](https://github.com/aqibarbi/aqibarbi/blob/main/README.md)

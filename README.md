@@ -127,6 +127,10 @@ Saqlain Riaz, Franchise Owner at Enablers, wrote me a recommendation. It's on my
 
 <br/>
 
-[Portfolio](https://portfolio-muhammad-aqibjaved.netlify.app/) · [Resume](https://cv-aqib-javed.netlify.app/) · [WhatsApp](https://api.whatsapp.com/send?phone=923056494101&text=Hi%20Aqib%2C%20I%20saw%20your%20GitHub%20and%20want%20to%20discuss%20a%20project.) · [Email](mailto:maqibjaved.dev@gmail.com) · [LinkedIn](https://linkedin.com/in/muhammad-aqibjaved-webdev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1B4FBD?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-muhammad-aqibjaved.netlify.app/)
+[![Resume](https://img.shields.io/badge/Resume-0F172A?style=for-the-badge)](https://cv-aqib-javed.netlify.app/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=923056494101&text=Hi%20Aqib%2C%20I%20saw%20your%20GitHub%20and%20want%20to%20discuss%20a%20project.)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maqibjaved.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-aqibjaved-webdev)
 
 </div>

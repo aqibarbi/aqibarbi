@@ -57,9 +57,9 @@ I write pages as custom code on a child theme and add plugins only where they he
 - Contact and quote forms with branded email notifications
 - Security headers set in `.htaccess`, grade A on securityheaders.com
 
-[![Live Site](https://img.shields.io/badge/Live%20Site-1B4FBD?style=for-the-badge&logo=wordpress&logoColor=white)](https://perthdynamicsolutions.com.au)
-[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aqibarbi/Perth-Dynamics-Solutions)
-[![Client Review](https://img.shields.io/badge/Client%20Review-0F172A?style=for-the-badge)](https://portfolio-muhammad-aqibjaved.netlify.app/assets/img/pds-review-proof.webp)
+[![Live site, Perth Dynamic Solutions](./btn-live.svg)](https://perthdynamicsolutions.com.au)
+[![Code on GitHub](./btn-code.svg)](https://github.com/aqibarbi/Perth-Dynamics-Solutions)
+[![Client review](./btn-review.svg)](https://portfolio-muhammad-aqibjaved.netlify.app/assets/img/pds-review-proof.webp)
 
 <p align="center">
   <a href="https://perthdynamicsolutions.com.au"><img src="https://portfolio-muhammad-aqibjaved.netlify.app/assets/img/pds-catalog-600.webp" alt="Catalog page with All, Expanders and Studio filter and six model cards" width="32%"/></a>

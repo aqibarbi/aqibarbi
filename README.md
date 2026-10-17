@@ -14,7 +14,7 @@
 
 ## About
 
-I'm Aqib (Muhammad Aqib Javed), a freelance web developer from Bahawalpur, Pakistan (PKT, UTC+5). I've been building websites for over two years, mostly in WordPress and plain HTML, CSS and JavaScript, and I work with clients remotely. I also teach web design and development at Enablers Bahawalpur.
+I'm Aqib Javed, a freelance web developer in Bahawalpur, Pakistan. I work in PKT (UTC+5) and with clients remotely. I've been building websites for over two years, mostly in WordPress and plain HTML, CSS and JavaScript. I also teach web design and development at Enablers Bahawalpur.
 
 I write pages as custom code on a child theme and add plugins only where they help, like Fluent Forms for forms. It takes longer to start than a ready-made template, but the site loads faster and is easier to change later.
 
@@ -96,7 +96,7 @@ More details in my [portfolio](https://portfolio-muhammad-aqibjaved.netlify.app/
 - **Frontend Developer**, SkillWays, Bahawalpur, Apr 2026 to Sep 2026. Custom WordPress pages, including every page of the Perth Dynamic Solutions site.
 - **Frontend Developer Intern**, FINEWEBS Ltd., Aug 2024 to Apr 2026. HTML, CSS, Bootstrap and Tailwind, then JavaScript and WordPress with Elementor Pro.
 
-Recommendation from Saqlain Riaz, Franchise Owner at Enablers, on my [portfolio](https://portfolio-muhammad-aqibjaved.netlify.app/#experience).
+Saqlain Riaz, Franchise Owner at Enablers, wrote me a recommendation. It's on my [portfolio](https://portfolio-muhammad-aqibjaved.netlify.app/#experience).
 
 ## Certifications
 
@@ -105,10 +105,16 @@ Recommendation from Saqlain Riaz, Franchise Owner at Enablers, on my [portfolio]
 
 ## Working with me
 
+<div align="center">
+
+<img src="./process.svg?v=1" alt="Four steps: 1 Brief, what you need and by when. 2 Quote, scope, timeline and price. 3 Build, with updates while I build. 4 Revisions, fixes in agreed scope, extras are quoted." width="100%"/>
+
+</div>
+
 - Tell me what you need and when you need it.
 - I reply with what I can do, how long it should take, and the price.
 - You get updates while I build.
-- I fix revisions on the agreed work until you're happy with it.
+- I fix revisions within the agreed scope.
 - New pages or extra features are quoted separately.
 
 ## Contact

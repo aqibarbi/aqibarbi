@@ -43,7 +43,7 @@ I write pages as custom code on a child theme and add plugins only where they he
 
 <div align="center">
 
-<img src="./stack.svg?v=1" alt="Tech stack: HTML, CSS, JavaScript, Bootstrap, Tailwind, WordPress, Elementor Pro, ACF, Fluent Forms, WP Rocket, Git, GitHub, Netlify." width="100%"/>
+<img src="./stack.svg?v=1" alt="Tech stack: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, WordPress, Elementor Pro, ACF, Fluent Forms, Theme Builder, WP Rocket, PageSpeed, Git, GitHub, Netlify, Search Console." width="100%"/>
 
 </div>
 
@@ -88,7 +88,7 @@ More details in my [portfolio](https://portfolio-muhammad-aqibjaved.netlify.app/
 
 <div align="center">
 
-<img src="./experience.svg?v=1" alt="Timeline: Frontend Developer Intern at FINEWEBS Ltd. from Aug 2024, Frontend Developer at SkillWays from Apr 2026, Web Design and Development Trainer at Enablers Bahawalpur from Sep 2026." width="100%"/>
+<img src="./experience.svg?v=1" alt="Timeline: Frontend Developer Intern at FINEWEBS Ltd. from Aug 2024, Frontend Developer at SkillWays from Apr 2026, Web Design and Development Trainer at Enablers Bahawalpur (formerly SkillWays) from Sep 2026." width="100%"/>
 
 </div>
 

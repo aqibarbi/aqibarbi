@@ -1,11 +1,12 @@
-[<div align="center">
+<div align="center">
 
 <img src="./hero.svg?v=1" alt="Aqib Javed, Frontend and WordPress Developer from Bahawalpur, Pakistan. Custom WordPress sites, responsive frontend builds, open to freelance and remote work." width="100%"/>
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1B4FBD?style=for-the-badge&logo=netlify&logoColor=white)](https://portfolio-muhammad-aqibjaved.netlify.app/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=923056494101&text=Hello)
+[![Resume](https://img.shields.io/badge/Resume-0F172A?style=for-the-badge)](https://cv-aqib-javed.netlify.app/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=923056494101&text=Hi%20Aqib%2C%20I%20saw%20your%20GitHub%20and%20want%20to%20discuss%20a%20project.)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maqibjaved.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-aqibjaved-webdev)
 
@@ -13,47 +14,30 @@
 
 ## About
 
-I'm Aqib, a freelance web developer from Bahawalpur. I've been building websites for about two years, mostly in WordPress and plain HTML, CSS and JavaScript. I also teach web development at Enablers Bahawalpur.
+I'm Aqib (Muhammad Aqib Javed), a freelance web developer from Bahawalpur, Pakistan (PKT, UTC+5). I've been building websites for over two years, mostly in WordPress and plain HTML, CSS and JavaScript, and I work with clients remotely. I also teach web design and development at Enablers Bahawalpur.
 
 I write pages as custom code on a child theme and add plugins only where they help, like Fluent Forms for forms. It takes longer to start than a ready-made template, but the site loads faster and is easier to change later.
 
 ## What I do
 
-- Custom-coded WordPress themes and pages (child themes, custom post types, ACF)
-- Elementor and Elementor Pro sites (layouts, theme builder, custom sections)
-- Responsive sites in HTML, CSS, JavaScript, Bootstrap and Tailwind
-- Speed fixes: image sizes, caching, PageSpeed issues
+**Frontend**
+
+- Landing pages and business sites from a design or reference
+- Mobile-first layouts, responsive from 320px phones to desktop
+- Interactive parts: sliders, tabs, menus, forms
+
+**WordPress**
+
+- Custom-coded pages in a child theme on Hello Elementor
+- Elementor Pro pages and theme builder layouts
+- Product catalogs and filters with ACF and custom post types
 - Contact and quote forms with email notifications that arrive
-- Layout bug fixes and cleanup of existing sites
 
-## Recent work
+**Speed and maintenance**
 
-**Perth Dynamic Solutions** is a modular home company in Perth, Western Australia. I built their WordPress site from scratch:
-
-- Custom child theme on Hello Elementor
-- Product catalog with category filters (custom post type and ACF)
-- Finish selector on each product page (cladding, flooring, cabinetry)
-- Contact and quote forms with branded email notifications
-- Security headers set in `.htaccess`, grade A on securityheaders.com
-
-[Live site](https://perthdynamicsolutions.com.au) · [Code](https://github.com/aqibarbi/Perth-Dynamics-Solutions)
-
-<p align="center">
-  <a href="https://perthdynamicsolutions.com.au"><img src="https://raw.githubusercontent.com/aqibarbi/Perth-Dynamics-Solutions/main/assets/img/screenshot-home.png" alt="Perth Dynamic Solutions homepage" width="49%"/></a>
-  <a href="https://perthdynamicsolutions.com.au"><img src="https://raw.githubusercontent.com/aqibarbi/Perth-Dynamics-Solutions/main/assets/img/screenshot-product.png" alt="Perth Dynamic Solutions product page" width="49%"/></a>
-</p>
-
-> "Professional, fast, efficient, value for money. Highly recommended. Extremely satisfied."
->
-> Hassan, Perth Dynamic Solutions
-
-### Practice builds (not client work)
-
-- [Real Home Ultra](https://real-home-ultra-bootstrap.netlify.app/): real estate site, Bootstrap and Swiper
-- [CV Maker](https://cv-generator-js.netlify.app): resume builder in vanilla JavaScript
-- [Houzez](https://houzez-bootstrap.netlify.app): property listings layout
-
-More in my [portfolio](https://portfolio-muhammad-aqibjaved.netlify.app/) ([code](https://github.com/aqibarbi/portfolio-website)).
+- PageSpeed and mobile fixes: caching, images, contrast, touch targets
+- Search Console setup: sitemap and indexing issues
+- Bug fixes and updates on existing sites
 
 ## Tools
 
@@ -62,6 +46,56 @@ More in my [portfolio](https://portfolio-muhammad-aqibjaved.netlify.app/) ([code
 <img src="./stack.svg?v=1" alt="Tech stack: HTML, CSS, JavaScript, Bootstrap, Tailwind, WordPress, Elementor Pro, ACF, Fluent Forms, WP Rocket, Git, GitHub, Netlify." width="100%"/>
 
 </div>
+
+## Client work
+
+**Perth Dynamic Solutions** is a modular home company in Australia. It's a live client site, delivered remotely from Pakistan. I built every page:
+
+- Custom child theme on Hello Elementor
+- ACF product catalog with category filters
+- Finish configurator on each product page: cladding, frame, flooring, benchtop, cabinetry, vanity
+- Contact and quote forms with branded email notifications
+- Security headers set in `.htaccess`, grade A on securityheaders.com
+
+[Live site](https://perthdynamicsolutions.com.au) · [Code](https://github.com/aqibarbi/Perth-Dynamics-Solutions) · [Original client review](https://portfolio-muhammad-aqibjaved.netlify.app/assets/img/pds-review-proof.webp)
+
+<p align="center">
+  <a href="https://perthdynamicsolutions.com.au"><img src="https://portfolio-muhammad-aqibjaved.netlify.app/assets/img/pds-catalog-600.webp" alt="Catalog page with All, Expanders and Studio filter and six model cards" width="32%"/></a>
+  <a href="https://perthdynamicsolutions.com.au"><img src="https://portfolio-muhammad-aqibjaved.netlify.app/assets/img/pds-product-600.webp" alt="Product detail page with price, bedrooms, bathroom and floor area" width="32%"/></a>
+  <a href="https://perthdynamicsolutions.com.au"><img src="https://portfolio-muhammad-aqibjaved.netlify.app/assets/img/pds-configurator-600.webp" alt="Finish configurator with tabs for cladding, frame, flooring, benchtop, cabinetry and vanity" width="32%"/></a>
+</p>
+
+> "Professional, fast, efficient, value for money. Highly recommended. Extremely satisfied."
+>
+> Hassan, Perth Dynamic Solutions
+
+## Practice builds (not client work)
+
+| Project | Built with | Link |
+| --- | --- | --- |
+| Real Home Ultra, real estate site | HTML, CSS, Bootstrap, Swiper.js | [Live](https://real-home-ultra-bootstrap.netlify.app/) |
+| CV Maker, resume builder | HTML, CSS, vanilla JavaScript | [Live](https://cv-generator-js.netlify.app) |
+| Houzez, property listings UI | HTML, CSS, Bootstrap, Swiper.js | [Live](https://houzez-bootstrap.netlify.app) |
+| Focal Point Homes, real estate UI | HTML, CSS | [Live](https://focal-point-homes-flex.netlify.app) |
+| MC Duffers, virtual golf landing page | HTML, CSS, Swiper.js | [Live](https://mcduffers-virtual-golf.netlify.app) |
+| Metal Defence, corporate site UI | HTML, CSS, Flexbox | [Live](https://mental-defend-flex.netlify.app) |
+| Cayuga Lake, travel and hospitality UI | HTML, CSS | [Live](https://cayuga-lake-flex.netlify.app) |
+| Anthony Medina, personal portfolio UI | HTML, CSS, Flexbox | [Live](https://flex-anthony-medina.netlify.app) |
+
+More details in my [portfolio](https://portfolio-muhammad-aqibjaved.netlify.app/) ([code](https://github.com/aqibarbi/portfolio-website)).
+
+## Experience
+
+- **Web Design and Development Trainer**, Enablers Bahawalpur (formerly SkillWays), Sep 2026 to present. HTML, CSS and WordPress.
+- **Frontend Developer**, SkillWays, Bahawalpur, Apr 2026 to Sep 2026. Custom WordPress pages, including every page of the Perth Dynamic Solutions site.
+- **Frontend Developer Intern**, FINEWEBS Ltd., Aug 2024 to Apr 2026. HTML, CSS, Bootstrap and Tailwind, then JavaScript and WordPress with Elementor Pro.
+
+Recommendation from Saqlain Riaz, Franchise Owner at Enablers, on my [portfolio](https://portfolio-muhammad-aqibjaved.netlify.app/#experience).
+
+## Certifications
+
+- freeCodeCamp [Responsive Web Design](https://freecodecamp.org/certification/muhammad-aqibjaved-dev/responsive-web-design-v9), May 2026, about 300 hours
+- freeCodeCamp [JavaScript Developer](https://freecodecamp.org/certification/muhammad-aqibjaved-dev/javascript-v9), Sep 2026, about 300 hours
 
 ## Working with me
 
@@ -79,7 +113,6 @@ More in my [portfolio](https://portfolio-muhammad-aqibjaved.netlify.app/) ([code
 
 <br/>
 
-[Portfolio](https://portfolio-muhammad-aqibjaved.netlify.app/) · [WhatsApp](https://api.whatsapp.com/send?phone=923056494101&text=Hello) · [Email](mailto:maqibjaved.dev@gmail.com) · [LinkedIn](https://linkedin.com/in/muhammad-aqibjaved-webdev)
+[Portfolio](https://portfolio-muhammad-aqibjaved.netlify.app/) · [Resume](https://cv-aqib-javed.netlify.app/) · [WhatsApp](https://api.whatsapp.com/send?phone=923056494101&text=Hi%20Aqib%2C%20I%20saw%20your%20GitHub%20and%20want%20to%20discuss%20a%20project.) · [Email](mailto:maqibjaved.dev@gmail.com) · [LinkedIn](https://linkedin.com/in/muhammad-aqibjaved-webdev)
 
 </div>
-](https://github.com/aqibarbi/aqibarbi/blob/main/README.md)

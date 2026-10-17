@@ -86,6 +86,12 @@ More details in my [portfolio](https://portfolio-muhammad-aqibjaved.netlify.app/
 
 ## Experience
 
+<div align="center">
+
+<img src="./experience.svg?v=1" alt="Timeline: Frontend Developer Intern at FINEWEBS Ltd. from Aug 2024, Frontend Developer at SkillWays from Apr 2026, Web Design and Development Trainer at Enablers Bahawalpur from Sep 2026." width="100%"/>
+
+</div>
+
 - **Web Design and Development Trainer**, Enablers Bahawalpur (formerly SkillWays), Sep 2026 to present. HTML, CSS and WordPress.
 - **Frontend Developer**, SkillWays, Bahawalpur, Apr 2026 to Sep 2026. Custom WordPress pages, including every page of the Perth Dynamic Solutions site.
 - **Frontend Developer Intern**, FINEWEBS Ltd., Aug 2024 to Apr 2026. HTML, CSS, Bootstrap and Tailwind, then JavaScript and WordPress with Elementor Pro.

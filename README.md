@@ -78,7 +78,7 @@ I write pages as custom code on a child theme and add plugins only where they he
 | Real Home Ultra, real estate site | HTML, CSS, Bootstrap, Swiper.js | [Live](https://real-home-ultra-bootstrap.netlify.app/) |
 | CV Maker, resume builder | HTML, CSS, vanilla JavaScript | [Live](https://cv-generator-js.netlify.app) |
 | Houzez, property listings UI | HTML, CSS, Bootstrap, Swiper.js | [Live](https://houzez-bootstrap.netlify.app) |
-| Focal Point Homes, real estate UI | HTML, CSS | [Live](https://focal-point-homes-flex.netlify.app) |
+| Focal Point Homes, real estate UI | HTML, CSS, js | [Live](https://focal-point-homes.netlify.app) |
 | MC Duffers, virtual golf landing page | HTML, CSS, Swiper.js | [Live](https://mcduffers-virtual-golf.netlify.app) |
 | Metal Defence, corporate site UI | HTML, CSS, Flexbox | [Live](https://mental-defend-flex.netlify.app) |
 | Cayuga Lake, travel and hospitality UI | HTML, CSS | [Live](https://cayuga-lake-flex.netlify.app) |
